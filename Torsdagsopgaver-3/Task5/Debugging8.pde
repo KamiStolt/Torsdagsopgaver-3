@@ -1,0 +1,40 @@
+/* boolean jobsDone = true;
+
+void setup()
+{
+    println(isValueGreaterThanThreshold(10, 5));
+    println(isValueGreaterThanThreshold(4, 8));
+    
+    if (isJobDone())
+    {
+        println("Job's done!"); 
+    }
+    
+    
+}
+
+boolean isValueGreaterThanThreshold(int value, int threshold) 
+{
+    if (value > threshold) 
+    {
+      println("it works");
+      println("Hello");
+        return true;                
+    } else {
+      println("nope");
+      println("go home");
+    return false;
+    }
+}
+
+
+
+
+
+
+boolean isJobDone()
+{
+    return jobsDone;    
+}
+
+*/
